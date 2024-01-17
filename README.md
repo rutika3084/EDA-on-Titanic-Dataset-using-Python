@@ -27,6 +27,7 @@ The Titanic dataset is renowned in the data science community for providing a gl
 12) Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton).
 
 # Project Highlights
+
 1. Data Cleaning and Preprocessing
    Handled missing values and outliers.
    Addressed data inconsistencies and errors.
